@@ -103,7 +103,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'chatbot',
         'USER': 'root',
-        'PASSWORD': 'gits2501',
+        'PASSWORD': '***',
         'HOST': 'localhost',
         'PORT': '3306',
     }
